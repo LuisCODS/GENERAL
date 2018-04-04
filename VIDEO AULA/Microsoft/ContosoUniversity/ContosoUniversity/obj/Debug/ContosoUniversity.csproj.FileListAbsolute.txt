@@ -82,3 +82,4 @@ E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Deb
 E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
 E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
