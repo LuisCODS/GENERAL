@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title - Mon application ASP.NET</title>
+    @Styles.Render("~/Content/bootstrap")
+
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</head>
+<body>
+    <div class="container">
+        @RenderPage("~/Views/Shared/_Top.cshtml")
+        <div class="row">
+            @Html.Partial("_MenuCoteGauche")
+            <div class="span9">
+                @RenderBody()
+            </div>
+        </div>
+        <div class="row">
+            @Html.Partial("_Footer")
+        </div>
+    </div>
+    @*if true, oblige toutes les views a l'implenter*@
+    @*@RenderSection("scripts", required: false)*@
+</body>
+</html>
