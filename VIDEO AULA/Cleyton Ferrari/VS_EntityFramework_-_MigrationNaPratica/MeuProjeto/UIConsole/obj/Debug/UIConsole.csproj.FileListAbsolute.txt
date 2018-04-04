@@ -1,0 +1,41 @@
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe.config
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\UIConsole.pdb
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\EntityFramework.dll
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\EntityFramework.xml
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\obj\Debug\UIConsole.exe
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\obj\Debug\UIConsole.pdb
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe.config
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.pdb
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.dll
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.xml
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.csproj.CoreCompileInputs.cache
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.exe
+C:\Users\e1103907\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.pdb
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe.config
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.exe
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.pdb
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.pdb
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.dll
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.xml
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tenni\Documents\GitHub\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe.config
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.exe
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.pdb
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\UIConsole.pdb
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.dll
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.xml
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS_EntityFramework_-_MigrationNaPratica\MeuProjeto\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
