@@ -39,3 +39,46 @@ E:\Git_VS_ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.dl
 E:\Git_VS_ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 E:\Git_VS_ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 E:\Git_VS_ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.Helpers.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.Mvc.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.Optimization.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.Razor.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.WebPages.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
