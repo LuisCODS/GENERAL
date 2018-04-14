@@ -30,11 +30,11 @@ namespace CadastroDeProdutos.Controllers
         }
 
         // ============================= CREATE ==================================
+        [Authorize]
         public ActionResult Create()
         {
             ViewBag.Categoria = new Categoria();
             return View(new Produto());
-
         }
 
         [HttpPost]
@@ -47,7 +47,6 @@ namespace CadastroDeProdutos.Controllers
                 return RedirectToAction("Index");
             }
             return View(p);
-
         }
 
         // ============================= EDIT ==================================

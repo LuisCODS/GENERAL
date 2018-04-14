@@ -35,3 +35,42 @@ E:\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos
 E:\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.dll
 E:\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.pdb
 E:\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csprojResolveAssemblyReference.cache
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\CadastroDeProdutos.dll.config
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\CadastroDeProdutos.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\CadastroDeProdutos.pdb
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\Antlr3.Runtime.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\EntityFramework.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\EntityFramework.SqlServer.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\Microsoft.Web.Infrastructure.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\Newtonsoft.Json.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.Helpers.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.Mvc.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.Optimization.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.Razor.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.WebPages.Deployment.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.WebPages.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.WebPages.Razor.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\WebGrease.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\EntityFramework.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\EntityFramework.SqlServer.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.Helpers.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.Mvc.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.Optimization.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.Razor.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.WebPages.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.WebPages.Deployment.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\System.Web.WebPages.Razor.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\Antlr3.Runtime.pdb
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\Newtonsoft.Json.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.Helpers.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.Mvc.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.Optimization.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.Razor.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.WebPages.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csprojResolveAssemblyReference.cache
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csproj.CoreCompileInputs.cache
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csproj.CopyComplete
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.dll
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.pdb

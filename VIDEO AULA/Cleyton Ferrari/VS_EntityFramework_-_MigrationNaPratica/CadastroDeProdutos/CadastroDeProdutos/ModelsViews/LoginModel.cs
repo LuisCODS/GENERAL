@@ -21,5 +21,8 @@ namespace CadastroDeProdutos.ModelsViews
 
         [DisplayName("Memoriser le mot de passe ?")]
         public bool Persistant { get; set; }
+
+        public bool Authentifie { get; set; }
+
     }
 }

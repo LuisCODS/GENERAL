@@ -11,6 +11,7 @@ namespace CadastroDeProdutos.Models
     {
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int ProdutoID { get; set; }
+
         [Required]
         public string Nome { get; set; }
 
