@@ -13,9 +13,9 @@
             <ul class="nav navbar-nav">
                 <li>@Html.ActionLink("Utilisateurs", "Index", "Home")</li>
                 <li>@Html.ActionLink("Produtos", "Index", "Produto")</li>
-                @*<li>@Html.ActionLink("Utilisateurs", "Index", "Utilisateur")</li>*@
-                <li>@Html.ActionLink("Login", "Login", "Auth")</li>
-                <li>@Html.ActionLink("Create Compte", "Create", "Auth")</li>
+                <li>@Html.Partial("_DropdownMenuLogin")</li>
+                @*<li>@Html.ActionLink("Login", "Login", "Auth")</li>*@
+                @*<li>@Html.ActionLink("Create Compte", "Create", "Auth")</li>*@
             </ul>
         </div>
     </div>

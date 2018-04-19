@@ -26,12 +26,16 @@ namespace DemoAuthentication.Controllers
             if (IsValid(user))
             {
                 FormsAuthentication.SetAuthCookie(user.NomUtilisateur, Persistant);
-                return Redirect(ReturnUrl);
+                //return Redirect(ReturnUrl);
+                if(!string.IsNullOrWhiteSpace(ReturnUrl) && Url.IsLocalUrl(ReturnUrl))
+                    return Redirect(ReturnUrl);
+                return Redirect("/");
             }
-            else {
+            else
+            {
                 return View(user);
             }
-            
+
         }
 
         private bool IsValid(LoginModel user)
@@ -45,8 +49,8 @@ namespace DemoAuthentication.Controllers
         // ============================= Logout ==================================
         public ActionResult Logout() 
         {
-            return View();
-
+            FormsAuthentication.SignOut();
+            return Redirect("/");
         }
 
     }

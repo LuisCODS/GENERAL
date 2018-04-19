@@ -135,7 +135,6 @@
     <Compile Include="ModelsViews\UtilisateurViewModel.cs" />
     <Compile Include="Models\Categoria.cs" />
     <Compile Include="Models\Produto.cs" />
-    <Compile Include="Models\TipoCategoria.cs" />
     <Compile Include="Models\TypeUtilisateur.cs" />
     <Compile Include="Models\Utilisateur.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -189,6 +188,7 @@
     <Content Include="Views\Shared\_Footer.cshtml" />
     <Content Include="Views\Shared\_Menu.cshtml" />
     <Content Include="Views\Produto\Details.cshtml" />
+    <Content Include="Views\Shared\_DropdownMenuLogin.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

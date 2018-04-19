@@ -14,14 +14,13 @@ namespace CadastroDeProdutos.Models
 
     public class Produto
     {
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        //[DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int ProdutoID { get; set; }
 
         [Required]
         public string Nome { get; set; }
 
-        public virtual ICollection<Utilisateur> Utilisateurs { get; set; }
-
+        [Required]
         public Categoria Categoria { get; set; }
 
     }
