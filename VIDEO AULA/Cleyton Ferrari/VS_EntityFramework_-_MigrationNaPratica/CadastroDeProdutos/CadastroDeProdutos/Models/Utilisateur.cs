@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.EnterpriseServices;
 using System.Linq;
 using System.Web;
@@ -12,14 +13,20 @@ namespace CadastroDeProdutos.Models
     public class Utilisateur
     {
 
-        public Utilisateur()
-        {
-            this.TypeUtilisateur = TypeUtilisateur.Membre;
-        }
+        //public Utilisateur()
+        //{
+        //    this.TypeUtilisateur = TypeUtilisateur.Membre;
+        //}
 
         [Key]
         public int UtilisateurID { get; set; }
 
+        //public int ProdutoID { get; set; }
+        public virtual ICollection<Produto> Produtos { get; set; }
+
+
+
+        [Index(IsUnique = true)]
         [Required(ErrorMessage = "Veuillez entrer votre nom s.t.p.")]
         [DisplayName("Nom Utilisateur")]
         [StringLength(30, ErrorMessage = "Must be between 3 and 30 characters", MinimumLength = 3)]
@@ -35,7 +42,10 @@ namespace CadastroDeProdutos.Models
         [Compare("Password")]
         public string PasswordRepeated { get; set; }
 
-        [Required(ErrorMessage = "Veuiller entrer le tipe de compte")]
-        public TypeUtilisateur TypeUtilisateur { get; set; }
+        //[Required(ErrorMessage = "Veuiller entrer le tipe de compte")]
+        //public TypeUtilisateur TypeUtilisateur { get; set; }
+
+        [DisplayName("Restez connecté ?")]
+        public bool Persistant { get; set; }
     }
 }

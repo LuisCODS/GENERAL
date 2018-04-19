@@ -9,8 +9,6 @@ namespace CadastroDeProdutos.ModelsViews
 {
     public class LoginModel
     {
-
-
         [Required]
         [DisplayName("Nom Utilisateur")]
         public string NomUtilisateur { get; set; }
@@ -19,10 +17,9 @@ namespace CadastroDeProdutos.ModelsViews
         [DisplayName("Mot de passe")]
         public string Password { get; set; }
 
-        [DisplayName("Memoriser le mot de passe ?")]
+        [DisplayName("Restez connecté ?")]
         public bool Persistant { get; set; }
 
-        public bool Authentifie { get; set; }
 
     }
 }

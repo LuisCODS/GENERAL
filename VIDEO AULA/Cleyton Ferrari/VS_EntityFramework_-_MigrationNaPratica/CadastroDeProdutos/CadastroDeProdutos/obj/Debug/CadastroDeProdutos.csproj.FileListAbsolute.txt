@@ -69,8 +69,8 @@ E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPrati
 E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.WebPages.resources.dll
 E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.WebPages.Deployment.resources.dll
 E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\bin\fr\System.Web.WebPages.Razor.resources.dll
-E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csprojResolveAssemblyReference.cache
 E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csproj.CoreCompileInputs.cache
 E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csproj.CopyComplete
 E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.dll
 E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.pdb
+E:\TUTORIAL_GIT\VIDEO AULA\Cleyton Ferrari\VS_EntityFramework_-_MigrationNaPratica\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\CadastroDeProdutos.csprojResolveAssemblyReference.cache

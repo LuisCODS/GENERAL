@@ -23,6 +23,26 @@ namespace CadastroDeProdutos.Controllers
             return View(db.Utilisateurs.ToList());
         }
 
+        // ============================= CREATE ==================================
+        public ActionResult Create()
+        {
+            return View(new Utilisateur());
+        }
+        [HttpPost]
+        public ActionResult Create(Utilisateur user)
+        {
+            if (ModelState.IsValid)
+            {
+                //string motDePasseEncode = EncodeMD5(user.PasswordRepeated);
+                db.Utilisateurs.Add(user);
+                db.SaveChanges();
+                FormsAuthentication.SetAuthCookie(user.UtilisateurID.ToString(), false);
+                return RedirectToAction("Index", "Home");
+            }
+            //return utilisateur.Id;
+            return View(user);
+        }
+
         // ============================= Details ==================================
         public ActionResult Details(int? id)
         {

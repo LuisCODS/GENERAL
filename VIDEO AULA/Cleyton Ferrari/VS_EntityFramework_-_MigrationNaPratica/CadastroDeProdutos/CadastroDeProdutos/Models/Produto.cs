@@ -7,6 +7,11 @@ using System.Web;
 
 namespace CadastroDeProdutos.Models
 {
+    public enum Categoria
+    {
+        Enlatados, Alimentos, Oleos
+    }
+
     public class Produto
     {
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
@@ -15,8 +20,9 @@ namespace CadastroDeProdutos.Models
         [Required]
         public string Nome { get; set; }
 
-        public int CategoriaID { get; set; }
-        public virtual Categoria Categoria { get; set; }
+        public virtual ICollection<Utilisateur> Utilisateurs { get; set; }
+
+        public Categoria Categoria { get; set; }
 
     }
 }
