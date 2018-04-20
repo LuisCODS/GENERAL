@@ -18,8 +18,7 @@ namespace CadastroDeProdutos.Controllers
         // ============================= LIST ==================================
         public ActionResult Index()
         {
-            //List avec lase load
-            return View(db.Produtos.Include(x => x.Categoria).ToList() );
+            return View(db.Produtos.ToList());
         }
 
         // ============================= DETAILS ==================================
@@ -33,7 +32,6 @@ namespace CadastroDeProdutos.Controllers
         [Authorize]
         public ActionResult Create()
         {
-            ViewBag.Categoria = new Categoria();
             return View(new Produto());
         }
 
@@ -50,7 +48,7 @@ namespace CadastroDeProdutos.Controllers
         }
 
         // ============================= EDIT ==================================
-
+        [Authorize]
         public ActionResult Edit(int? id)
         {
             if (id == null)

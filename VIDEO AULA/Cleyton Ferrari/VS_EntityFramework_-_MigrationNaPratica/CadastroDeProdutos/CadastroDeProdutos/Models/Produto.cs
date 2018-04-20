@@ -7,16 +7,21 @@ using System.Web;
 
 namespace CadastroDeProdutos.Models
 {
+    public enum Categoria
+    {
+        Enlatados, Alimentos, Oleos
+    }
+
     public class Produto
     {
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        //[DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int ProdutoID { get; set; }
 
         [Required]
         public string Nome { get; set; }
 
-        public int CategoriaID { get; set; }
-        public virtual Categoria Categoria { get; set; }
+        [Required]
+        public Categoria Categoria { get; set; }
 
     }
 }
