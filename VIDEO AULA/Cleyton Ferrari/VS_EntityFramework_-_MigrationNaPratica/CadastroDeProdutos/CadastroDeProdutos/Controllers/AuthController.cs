@@ -21,19 +21,19 @@ namespace DemoAuthentication.Controllers
         }
 
         [HttpPost]
-        public ActionResult Login(LoginModel user, string ReturnUrl, bool Persistant)
+        public ActionResult Login(LoginModel userModel, string ReturnUrl)
         {
-            if (IsValid(user))
+            if (IsValid(userModel))
             {
-                FormsAuthentication.SetAuthCookie(user.NomUtilisateur, Persistant);
-                //return Redirect(ReturnUrl);
+                FormsAuthentication.SetAuthCookie(userModel.NomUtilisateur, userModel.Persistant);
                 if(!string.IsNullOrWhiteSpace(ReturnUrl) && Url.IsLocalUrl(ReturnUrl))
                     return Redirect(ReturnUrl);
                 return Redirect("/");
             }
             else
             {
-                return View(user);
+                ModelState.AddModelError("","Le nom d'utilisateur ou le mot de passe est incorrect. ");
+                return View(userModel);
             }
 
         }
