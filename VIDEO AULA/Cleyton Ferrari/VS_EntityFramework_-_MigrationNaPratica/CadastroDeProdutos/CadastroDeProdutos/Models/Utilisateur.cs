@@ -34,7 +34,7 @@ namespace CadastroDeProdutos.Models
 
         [Required(ErrorMessage = "Veuillez remplir votre mot de passe")]
         [DataType(DataType.Password)]
-        [StringLength(8, ErrorMessage = "Must be between 3 and 8 characters", MinimumLength = 3)]
+        [StringLength(80, ErrorMessage = "Must be between 3 and 8 characters", MinimumLength = 3)]
         public string Password { get; set; }
 
         [DisplayName("Repetez le Mot de passe")]

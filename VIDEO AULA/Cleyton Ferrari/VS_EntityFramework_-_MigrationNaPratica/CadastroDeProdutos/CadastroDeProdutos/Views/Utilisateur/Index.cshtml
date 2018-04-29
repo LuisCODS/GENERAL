@@ -7,16 +7,16 @@
 <h2>Utilisateurs</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Create New", "Auth")
 </p>
 <table class="table">
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.NomUtilisateur)
         </th>
-        <th>
+        @*<th>
             @Html.DisplayNameFor(model => model.TypeUtilisateur)
-        </th>
+        </th>*@
         <th></th>
     </tr>
 
@@ -25,9 +25,9 @@
         <td>
             @Html.DisplayFor(modelItem => item.NomUtilisateur)
         </td>
-        <td>
+        @*<td>
             @Html.DisplayFor(modelItem => item.TypeUtilisateur)
-        </td>
+        </td>*@
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.UtilisateurID }) |
             @Html.ActionLink("Details", "Details", new { id=item.UtilisateurID }) |
