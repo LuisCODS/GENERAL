@@ -71,3 +71,5 @@ E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\BooksAPI\BooksAPI\BooksAPI\bin\EntityFramew
 E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\BooksAPI\BooksAPI\BooksAPI\bin\EntityFramework.SqlServer.dll
 E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\BooksAPI\BooksAPI\BooksAPI\bin\EntityFramework.xml
 E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\BooksAPI\BooksAPI\BooksAPI\bin\EntityFramework.SqlServer.xml
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\BooksAPI\BooksAPI\BooksAPI\obj\Debug\BooksAPI.Migrations.Initial.resources
+E:\TUTORIAL_GIT\VIDEO AULA\Microsoft\BooksAPI\BooksAPI\BooksAPI\obj\Debug\BooksAPI.csproj.GenerateResource.cache

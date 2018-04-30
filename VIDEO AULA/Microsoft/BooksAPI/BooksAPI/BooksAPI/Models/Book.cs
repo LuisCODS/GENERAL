@@ -22,9 +22,24 @@ namespace BooksAPI.Models
 
         public string Description { get; set; }
 
+        //ONE TO ONE
         public int AuthorId { get; set; }
-
         [ForeignKey("AuthorId")]
         public Author Author { get; set; }
+
+
+        //Option pour transmettre les données à la place de créer un DTO.
+        //public override string ToString()
+        //{
+        //    //return base.ToString();
+        //    return this.Title       + "\n" +
+        //           this.Genre       + "\n" +
+        //           this.PublishDate + "\n" +
+        //           this.Price       + "\n" +
+        //           this.Description + "\n" +
+        //           this.Author.Name + "\n"
+        //           ;
+        //}
+
     }
 }
