@@ -17,7 +17,6 @@ namespace BooksAPI.Controllers
         private BooksAPIContext db = new BooksAPIContext();
 
 
-
         // Typed lambda expression for Select() method. 
         private static readonly Expression<Func<Book, BookDto>> AsBookDto =
             x => new BookDto
@@ -74,6 +73,38 @@ namespace BooksAPI.Controllers
             }
             return Ok(book);
         }
+
+        // GET /api/books/fantasy
+        [Route("{genre}")]
+        public IQueryable<BookDto> GetBooksByGenre(string genre)
+        {
+            return db.Books.Include(b => b.Author)
+                .Where(b => b.Genre.Equals(genre, StringComparison.OrdinalIgnoreCase))
+                .Select(AsBookDto);
+        }
+
+
+        // GET api/authors/2/books
+        // Le tilde () dans le modèle d’itinéraire remplace le préfixe d’itinéraire dans la RoutePrefix attribut.
+        [Route("~/api/authors/{authorId:int}/books")]
+        public IQueryable<BookDto> GetBooksByAuthor(int authorId)
+        {
+            return db.Books.Include(b => b.Author)
+                .Where(b => b.AuthorId == authorId)
+                .Select(AsBookDto);
+        }
+
+        // GET /api/books/date/yyyy-mm-dd
+        [Route("date/{pubdate:datetime:regex(\\d{4}-\\d{2}-\\d{2})}")]
+        [Route("date/{*pubdate:datetime:regex(\\d{4}/\\d{2}/\\d{2})}")]
+        public IQueryable<BookDto> GetBooks(DateTime pubdate)
+        {
+            return db.Books.Include(b => b.Author)
+                .Where(b => DbFunctions.TruncateTime(b.PublishDate)
+                    == DbFunctions.TruncateTime(pubdate))
+                .Select(AsBookDto);
+        }
+
 
 
         protected override void Dispose(bool disposing)
